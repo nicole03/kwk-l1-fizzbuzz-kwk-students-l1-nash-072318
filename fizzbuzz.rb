@@ -5,4 +5,7 @@ elsif number%5 == 0
   puts "buzz"
 elsif number%3 == 0 
   puts "fizz"
+else number
+  puts "non"
 end 
+end
