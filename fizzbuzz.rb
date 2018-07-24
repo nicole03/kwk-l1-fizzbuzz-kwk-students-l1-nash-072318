@@ -5,11 +5,8 @@ if number%3 == 0
 end 
 
 number = 15
-
 if number%5 == 0 
   puts "buzz"
-end 
-
 number = 30 
 if number%15 == 0 
   puts "fizzbuzz"
